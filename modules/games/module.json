@@ -1,0 +1,15 @@
+{
+  "functions": [
+    "quiz_answer",
+    "quiz_friend"
+  ],
+  "minApp": "1.7.2",
+  "author": "SOVALONE",
+  "permissions": [],
+  "builtin": true,
+  "name": "Ігри та розваги",
+  "icon": "🎮",
+  "description": "Пінг-понг, кубики, пурхалка, зорепад, «повтори за мною», вгадай число, загадки, вікторина друзям, розіграш «найгірший помічник».",
+  "id": "games",
+  "version": "1.7.2"
+}

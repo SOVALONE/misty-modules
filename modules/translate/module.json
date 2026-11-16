@@ -1,0 +1,15 @@
+{
+  "functions": [
+    "start_interpreter",
+    "translate_screen"
+  ],
+  "minApp": "1.7.2",
+  "author": "SOVALONE",
+  "permissions": [],
+  "builtin": true,
+  "name": "Переклад екрана й суфлер",
+  "icon": "🌐",
+  "description": "Перекладаю все, що на екрані, і перекладаю розмову з іноземцем наживо.",
+  "id": "translate",
+  "version": "1.7.2"
+}

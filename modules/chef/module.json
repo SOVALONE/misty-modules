@@ -1,0 +1,17 @@
+{
+  "functions": [
+    "chef_mode",
+    "get_recipe",
+    "list_recipes",
+    "save_recipe"
+  ],
+  "minApp": "1.7.2",
+  "author": "SOVALONE",
+  "permissions": [],
+  "builtin": true,
+  "name": "Шеф-кухар",
+  "icon": "👩\u200d🍳",
+  "description": "Режим кухаря: веду рецепт крок за кроком, ставлю таймери, зберігаю улюблені рецепти, вдягаю ковпак.",
+  "id": "chef",
+  "version": "1.7.2"
+}

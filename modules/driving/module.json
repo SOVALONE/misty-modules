@@ -1,0 +1,12 @@
+{
+  "functions": ["driving_mode"],
+  "minApp": "1.7.2",
+  "author": "SOVALONE",
+  "permissions": [],
+  "builtin": true,
+  "name": "Режим водія",
+  "icon": "🚗",
+  "description": "За кермом: читаю повідомлення вголос, говорю коротко, сама вмикаюся в машині через Bluetooth, кермую разом з вами на кулі.",
+  "id": "driving",
+  "version": "1.7.2"
+}

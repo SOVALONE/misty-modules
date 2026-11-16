@@ -1,0 +1,15 @@
+{
+  "functions": [
+    "sport_mode",
+    "step_count"
+  ],
+  "minApp": "1.7.2",
+  "author": "SOVALONE",
+  "permissions": [],
+  "builtin": true,
+  "name": "Біг і кроки",
+  "icon": "🏃",
+  "description": "Тренерка: інтервали, вода, підбадьорюю на бігу; рахую кроки й хвалю за рекорди.",
+  "id": "sport",
+  "version": "1.7.2"
+}

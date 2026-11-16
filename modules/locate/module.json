@@ -1,0 +1,17 @@
+{
+  "functions": [
+    "going_home",
+    "locate_friend",
+    "remember_this_place",
+    "set_place_reminder"
+  ],
+  "minApp": "1.7.2",
+  "author": "SOVALONE",
+  "permissions": [],
+  "builtin": true,
+  "name": "Пошук телефона й місця",
+  "icon": "📍",
+  "description": "«Де зараз Астра?» (за згодою й паролем), «я йду додому», нагадування за місцем, місто за телефоном.",
+  "id": "locate",
+  "version": "1.7.2"
+}

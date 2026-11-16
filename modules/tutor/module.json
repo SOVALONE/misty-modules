@@ -1,0 +1,12 @@
+{
+  "functions": ["tutor_mode"],
+  "minApp": "1.7.2",
+  "author": "SOVALONE",
+  "permissions": [],
+  "builtin": true,
+  "name": "Репетиторка мов",
+  "icon": "🎓",
+  "description": "«Давай вчитись» \u2014 урок іноземною мовою: розмова, виправлення помилок, окуляри й указка.",
+  "id": "tutor",
+  "version": "1.7.2"
+}

@@ -1,0 +1,18 @@
+{
+  "functions": [
+    "read_telegram",
+    "send_telegram_message",
+    "send_voice_message",
+    "telegram_autopilot",
+    "telegram_autopilot_report"
+  ],
+  "minApp": "1.7.2",
+  "author": "SOVALONE",
+  "permissions": [],
+  "builtin": true,
+  "name": "Telegram і автопілот",
+  "icon": "✈️",
+  "description": "Пишу й читаю Telegram від вашого імені, автопілот відповідає обраним контактам, голосові повідомлення.",
+  "id": "telegram",
+  "version": "1.7.2"
+}
