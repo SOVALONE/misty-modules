@@ -1,0 +1,14 @@
+{
+  "functions": [],
+  "minApp": "1.7.5",
+  "ownerOnly": true,
+  "author": "sovalo",
+  "permissions": [],
+  "builtin": true,
+  "name": "Freedom System",
+  "icon": "🕊️",
+  "description": "Бета. Голос без Gemini: говорю локальною моделлю HolosTTS прямо на телефоні, без інтернету й без лімітів. Модель (~330 МБ) завантажується один раз. Не вийшло \u2014 говорю голосом Gemini, як раніше.",
+  "id": "freedom-system",
+  "version": "1.7.5",
+  "beta": true
+}
